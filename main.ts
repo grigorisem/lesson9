@@ -29,7 +29,7 @@ Object.entries(seasons).forEach(([season, seasonInfo]) => {
     }
 })
 console.log(maxincom);
-console.log(minincom)
+console.log(minincom);
 console.log(maxdismissedseason);
 console.log(maxdismissedseason);
 
