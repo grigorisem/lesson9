@@ -32,4 +32,4 @@ console.log(maxincom);
 console.log(minincom);
 console.log(maxdismissedseason);
 console.log(maxdismissedseason);
-console.log("new branch");
+console.log("new");
